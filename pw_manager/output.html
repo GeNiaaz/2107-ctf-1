@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en" style="height: 100%">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
+  <title>Best Password Manager</title>
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fira+Code:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    rel="stylesheet">
+
+  <style>
+    body {
+      font-family: 'Fira Sans', sans-serif;
+      background-color: #2E3440;
+      color: #ECEFF4;
+    }
+
+    .container {
+      display: block;
+      margin: 5rem 7rem;
+    }
+
+    #description {
+      margin: 2rem 0;
+    }
+
+    .enc-creds {
+      width: 80%;
+      word-wrap: break-word;
+      word-break: break-all;
+      padding: 1rem;
+      margin-top: 0.5rem;
+      margin-bottom: 1.5rem;
+      border-radius: 0.1rem;
+
+      font-weight: 500;
+      font-size: 0.9rem;
+      font-family: 'Fira Code', monospace;
+
+      color: #3B4252;
+    }
+
+    #old-creds {
+      background-color: #EBCB8B;
+    }
+
+    #new-creds {
+      background-color: #88C0D0;
+    }
+
+    #instructions {
+      width: 80%;
+      padding: 0.5rem 1rem;
+      font-size: 0.9rem;
+      line-height: 0.5rem;
+      margin: 1.5rem 0;
+      border-radius: 0.1rem;
+
+      font-weight: 500;
+      font-family: 'Fira Sans', sans-serif;
+      background-color: #ECEFF4;
+      color: #3B4252;
+    }
+
+    #example {
+      color: #BF616A;
+      font-family: 'Fira Code', monospace;
+    }
+
+    form {
+      margin-top: 1rem;
+      width: 100%;
+      font-family: 'Fira Sans', sans-serif;
+    }
+
+    textarea {
+      width: 80%;
+      padding: 1rem;
+      height: 10rem;
+      resize: vertical;
+      background-color: #ECEFF4;
+
+      font-weight: 500;
+      font-family: 'Fira Code', monospace;
+    }
+
+    #submit {
+      width: 82%;
+      vertical-align: middle;
+      margin-top: 0.3rem;
+      margin-bottom: 1rem;
+      padding: 0.4rem;
+      background-color: #A3BE8C;
+      color: #2E3440;
+
+      border: none;
+      border-radius: 0.1rem;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Welcome to the Best Password Manager</h1>
+
+    <div id="description">
+      <p>I think password managers are overrated. I just keep them in a text file and encrypt it using AES-ECB.
+        AES
+        is very secure so there's no way people can steal my passwords.
+      <p>To prove how confident I am, here you go. Try decrypting this. (Remember to hex-decode it first)</p>
+
+      <p id="old-creds" class="enc-creds">0528f8f97e1a90807bc8d39d84a0aafdfae15b56c7d251d603c7e942e7a80f14f898d26d4a030254b4d508f00d8943cde30c96709a89d83d45386ca0e0c9eead703736bc1c2625ba3ef6ce58b8aa96838a63a327e3f8c791235d667d3119d19b24da867b5e7498c95ad64efe9b767097fae15b56c7d251d603c7e942e7a80f14f898d26d4a030254b4d508f00d8943cd0dc4f8594153840f5eed493c72322d87304aa63778e0a4239a8e5d06c39a866d469c1f0fd3faf1cd99037b28fbcdd76759d6ac6619405c3fcb3acff245f7648efae15b56c7d251d603c7e942e7a80f14f898d26d4a030254b4d508f00d8943cdc82069716293acca8d0d492bb0233af0fae15b56c7d251d603c7e942e7a80f14f898d26d4a030254b4d508f00d8943cd6b03f98d316e26cb12f1d27b8c24dd80dd79ca5cff4f0f565d71c801cf330997a957443c67e85cf1da714f0047158fbf18b4582046d80d503229b09442895f47c575f32951eeaba0c863376fbe0bb6b5bbf7e9fb447b1b6a695a0261ac2f737c7115678f949cc97e8bc86b42a72946bec575f32951eeaba0c863376fbe0bb6b5bbf7e9fb447b1b6a695a0261ac2f737c52c8dbe96db2e34817d5c75ccff41572</p>
+    </div>
+
+    <p style="margin-top: 3rem;">Anyways, if you like this password manager, I'm happy to share it. Give me your
+      credentials and I can add it to my list. We're on HTTPS anwyays so don't worry about MitM attacks.</p>
+
+    <div id="instructions">
+      <p>I normally keep my credentials in the following format, line by line.</p>
+      <p id="example">website:username:password</p>
+      <p>But it's all up to you. My password manager is very flexible. <strong>I also sort the lines alphabetically before encrypting them.</strong></p>
+    </div>
+
+    <form method="POST" action="/">
+      <textarea type="text" name="creds" placeholder="Your credentials here"></textarea>
+      <br/>
+      <button type="submit" id="submit">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+          <path fill-rule="evenodd"
+            d="M1.592 2.712L2.38 7.25h4.87a.75.75 0 110 1.5H2.38l-.788 4.538L13.929 8 1.592 2.712zM.989 8L.064 2.68a1.341 1.341 0 011.85-1.462l13.402 5.744a1.13 1.13 0 010 2.076L1.913 14.782a1.341 1.341 0 01-1.85-1.463L.99 8z">
+          </path>
+        </svg>
+      </button>
+    </form>
+
+    <p id="new-creds" class="enc-creds">50d8dbd1b1ea88acb3b881de966363ac703736bc1c2625ba3ef6ce58b8aa96838a63a327e3f8c791235d667d3119d19b4d4fc535dd1bf89f1d93de418c7f70ed047b7dca30b344046e286242138143e661069655d986c6cf9a53d6ab4d2dbe108b73f1b054ec88188d4ec9ef6c1f7d0a703736bc1c2625ba3ef6ce58b8aa96838a63a327e3f8c791235d667d3119d19b478c4e084ac7467ccae99517743adaecdd79ca5cff4f0f565d71c801cf330997a957443c67e85cf1da714f0047158fbfc7195631d12625c1afec0b8d07dc58ba703736bc1c2625ba3ef6ce58b8aa96838a63a327e3f8c791235d667d3119d19b6dba89c03aa66a1103b5ccb8d2fc5765703736bc1c2625ba3ef6ce58b8aa96838a63a327e3f8c791235d667d3119d19b9c0968285e085932af824a76f15b3dc0fae15b56c7d251d603c7e942e7a80f14f898d26d4a030254b4d508f00d8943cd06f255352a51dfecfe4df1cb1366d1e2304aa63778e0a4239a8e5d06c39a866d469c1f0fd3faf1cd99037b28fbcdd7677b8adcef1faa9c8c5d6de8e18cc6a3d7304aa63778e0a4239a8e5d06c39a866d469c1f0fd3faf1cd99037b28fbcdd76727c1829f0e5bb4c0e0beb5a21bb55bac</p>
+  </div>
+</body>
+
+</html><<< COOKIES >>>

